@@ -6,4 +6,5 @@ from django.db import models
 class Sample:
 
     def __init__(self,id,nm,age):
-        pass
+        print('new commit into pydev')
+        print('--')
