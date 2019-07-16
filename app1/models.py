@@ -4,4 +4,6 @@ from django.db import models
 
 
 class Sample:
-    pass
+
+    def __init__(self,id,nm,age):
+        pass
