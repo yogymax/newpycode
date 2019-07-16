@@ -4,4 +4,4 @@ from django.test import TestCase
 
 
 class NewTest:
-    pass
+    print('inside newtest')
