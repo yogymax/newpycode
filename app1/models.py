@@ -7,3 +7,4 @@ class Sample:
 
     def __init__(self,id,nm,age):
         print('new commit into pydev')
+        print('--')
